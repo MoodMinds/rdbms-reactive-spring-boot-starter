@@ -1,4 +1,4 @@
-# A [RDBMS Reactive](https://github.com/MoodMinds/rdbms-reactive) for [Spring Boot](https://spring.io/projects/spring-boot) Starter
+# An [RDBMS Reactive](https://github.com/MoodMinds/rdbms-reactive) for [Spring Boot](https://spring.io/projects/spring-boot) Starter
 
 The [Spring Boot](https://spring.io/projects/spring-boot) Starter of the [RDBMS Reactive](https://github.com/MoodMinds/rdbms-reactive)
 basing on the [RDBMS Spring Boot](https://github.com/MoodMinds/rdbms-spring-boot). This is the meta-package including
